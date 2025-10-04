@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    text-decoration: none;
+    background-color: rgba(240, 234, 234, 0.664);
+    text-decoration: none;
+
+}
+.logo img {
+    background-color: rgba(241, 235, 235, 0.719);
+}
+.search input{
+    width: 300px;
+    padding: 8px;
+    border-radius: 70px;
+    font-size: medium;
+    height: auto;
+    margin-top: 28px;
+    background-color:rgba(255, 255, 255, 0.719);
+
+}
+.home{
+    display: flex;
+    margin-top: 13px;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column
+    
+    
+}
+.home a{
+    text-decoration: none;
+}
+.sigin{
+    display: flex;
+    margin-top: 30px;
+    flex-direction: column;
+    
+}
+.sigin a{
+    text-decoration: none;
+}
+.store{
+    display: flex;
+    margin-top: 30px;
+    text-align: center;
+    flex-direction: column;
+}
+.store a{
+    text-decoration: none;
+}
+.wishlist{
+    display: flex;
+    margin-top: 30px;
+    flex-direction: column;
+}
+.wishlist a{
+    text-decoration: none;
+}
+.support{
+    display: flex;
+    margin-top: 30px;
+    flex-direction: column;
+}
+.support a{
+    text-decoration: none;
+}
+.cart{
+    display: flex;
+    margin-top: 30px;
+    flex-direction: column;
+    margin-right: 6px;
+}
+.cart a{
+    text-decoration: none;
+}
+.one{
+    display: flex;
+    margin-top:20px;
+ gap: 48px;
+ text-align:center;
+ transform: scale(1.04);
+ cursor: pointer;
+
+}
+.one img:hover{
+    transform: scale(1.04);
+
+}
+    
+
+.two{
+    display: flex;
+    margin-top: 25px;
+    
+}
+.two img:hover{
+    transform: scale(1.04);
+}
+.three{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    text-align: center;
+}
+.three img:hover{
+    transform: scale(1.04);
+}
+.four{
+    display: flex;
+    margin-top:40px;
+    justify-content: space-between;
+}
+.four img:hover{
+    transform: scale( 1.04);
+}
+.five{
+    display: flex;
+    margin-top: 25px;
+    justify-content: space-between;
+}
+.five img:hover{
+    transform: scale(1.04);
+}
+
+
+.six{
+ display: flex;
+ margin-top: 50px;
+ border-radius: 70px;
+ border: 5px solid;
+ margin-left:20px;
+ text-align:center;
+ background-image: url("https://picsum.photos/1200/800");
+ 
+}
+.hi img{
+    margin-left: 20px;
+    border-style: dashed;
+    background-image: url("http");
+
+    
+ 
+}
+.hello{
+    margin-left: 20px;
+
+ 
+}
+.don{
+    margin-left: 50px;
+    border-style: dashed;
+    
+ 
+}

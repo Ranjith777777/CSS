@@ -1,0 +1,50 @@
+.boxone {
+    padding: 50px;
+    background-color: rgb(151, 151, 13);
+    color: black;
+    justify-content: center;
+    width: 100px;
+    margin-top: 20px;
+    text-align: center;
+    margin-left: 550px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 5px solid;
+}
+
+.boxtwo{
+
+    padding: 50px;
+    background-color: red;
+    color: black;
+    justify-content: center;
+    border: 5px solid;
+    margin-left:550px ;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    width: 100px;
+
+}
+.threebox{
+     padding: 50px;
+    background-color:orange;
+    color: black;
+    justify-content: center;
+    border: 5px solid;
+    margin-left:550px ;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    width: 100px;
+}
+.dhoni{
+    padding: 50px;
+    background-color: rgb(88, 88, 15);
+    color: black;
+    width: 450px;
+    text-align: center;
+    margin-left:400px ;
+    border: 5px solid;
+
+}
