@@ -1,0 +1,241 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo {
+    display: flex;
+    gap: 62px;
+
+}
+
+.messho img {
+    display: flex;
+    margin-left: 30px;
+
+}
+
+.search input {
+    margin-top: 30px;
+    width: 500px;
+    height: 40px;
+
+}
+.search input:focus{
+    transform: scale(1.05);
+}
+.become {
+    margin-top: 36px;
+    font-size: large;
+
+}
+
+.become a {
+    text-decoration: none;
+    flex-wrap: wrap;
+    font-size: medium;
+    color: black;
+    font-size: 20px;
+}
+.become:hover{
+    transform:scale(1.07);
+
+}
+
+.invistor{
+    margin-top: 36px;
+     font-size: 20px;
+
+}
+.invistor:hover{
+    transform: scale(1.07);
+}
+
+.invistor a {
+    text-decoration: none;
+    flex-wrap: wrap;
+    font-size: medium;
+    color: black;
+    font-size: 20px;
+}
+
+.profile {
+    margin-top: 40px;
+    flex-wrap: wrap;
+}
+.profile:hover{
+    transform: scale(1.07);
+}
+
+.profile a {
+    margin-top: 10px;
+    
+    display: flex;
+    text-decoration: none;
+    flex-wrap: wrap;
+    color: black;
+    font-size: 20px;
+}
+
+.cart {
+    margin-top: 40px;
+    flex-wrap: wrap;
+}
+.cart:hover{
+    transform: scale(1.07);
+}
+
+.cart a {
+    display: flex;
+    text-decoration: none;
+    flex-wrap: wrap;
+    color: black;
+    font-size: 20px;
+}
+
+.nav {
+    display: flex;
+    gap: 45px;
+    margin-top: 20px;
+}
+
+.a a {
+    text-decoration: none;
+    color: black;
+}
+.a:hover{
+    transform: scale(1.07);
+}
+
+.b a {
+    text-decoration: none;
+    color: black;
+}
+.b:hover{
+    transform: scale(1.07);
+}
+
+.c a {
+    text-decoration: none;
+    color: black;
+}
+.c:hover{
+    transform: scale(1.07);
+}
+
+.d a {
+    text-decoration: none;
+    color: black;
+}
+.d:hover{
+    transform: scale(1.07);
+}
+.e a {
+    text-decoration: none;
+    color: black;
+}
+.e:hover{
+    transform: scale(1.07);
+}
+
+.f a {
+    text-decoration: none;
+    color: black;
+}
+.f:hover{
+    transform: scale(1.07);
+}
+
+.g a {
+    text-decoration: none;
+    color: black;
+}
+.g:hover{
+    transform: scale(1.07);
+}
+
+.h a {
+    text-decoration: none;
+    color: black;
+}
+
+.h:hover{
+    transform: scale(1.07);
+}
+.i a {
+    text-decoration: none;
+    color: black;
+}
+.i:hover{
+    transform: scale(1.07);
+}
+
+.j a {
+    text-decoration: none;
+    color: black;
+}
+.j:hover{
+    transform: scale(1.07);
+}
+
+.two {
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-around;
+}
+
+.two img {
+    width: 200px;
+
+}
+.two img:hover{
+    transform: scale(1.07);
+}
+
+.three {
+    margin-top: 32px;
+}
+
+.three img {
+    width: 1350px;
+}
+.three img:hover{
+    transform: scale(1.2);
+}
+
+.four {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.four img {
+    width: 200px;
+}
+.four img:hover{
+    transform: scale(1.07);
+}
+
+.one img {
+    width: 1350px;
+    margin-top: 20px;
+}
+.one img:hover{
+
+transform: scale(1.01);
+}
+.five {
+    margin-top: 30px;
+    display: flex;
+    gap: 10px;
+    justify-content: space-around;
+}
+
+.five img:hover{
+    display: flex;
+    width: 200px;
+    width: 100px;
+    translate: (2,1);
+   
+}

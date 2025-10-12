@@ -1,0 +1,98 @@
+body{
+    background-color: black;
+}
+.box1{
+    background-color: rgb(0, 17, 255);
+    color: antiquewhite;
+    padding: 30px;
+    border: 5px solid;
+    height: 200px;
+    width: 200px;
+
+}
+.box2{
+    background-color: rgb(0, 17, 255);
+    color: antiquewhite;
+    padding: 30px;
+    border: 5px solid;
+    height: 200px;
+    width: 200px;
+
+}
+.box3{
+    background-color: rgb(0, 17, 255);
+    color: antiquewhite;
+    padding: 30px;
+    border: 5px solid;
+    height: 200px;
+    width: 200px;
+
+}
+.box4{
+    background-color: rgb(0, 17, 255);
+    color: antiquewhite;
+    padding: 30px;
+    border: 5px solid;
+    height: 200px;
+    width: 200px;
+
+}
+.box5{
+    background-color: rgb(0, 17, 255);
+    color: antiquewhite;
+    padding: 30px;
+    border: 5px solid;
+    height: 200px;
+    width: 200px;
+
+}
+.box6{
+    background-color: rgb(0, 17, 255);
+    color: antiquewhite;
+    padding: 30px;
+    border: 5px solid;
+    height: 200px;
+    width: 200px;
+
+}
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+}
+ @media(max-width:1600px) {
+    .box1{
+        background-color: blueviolet;
+    }
+ }
+ @media(max-width:1200px) {
+    .box2{
+        background-color: rgb(43, 226, 113);
+        display: none;
+    }
+ }
+@media(max-width:1024px) {
+    .box3{
+        background-color: rgb(192, 226, 43);
+    
+    }
+ }
+ @media(max-width:768px) {
+    .box4{
+        background-color: rgb(226, 43, 43);
+        display: none;
+    
+    }
+ }
+  @media(max-width:600px) {
+    .box5{
+      background-color: darkgreen;
+    
+    }
+ }
+  @media(max-width:480px) {
+    .box6{
+        background-color: rgb(107, 27, 27);
+        display: none;
+    
+    }
+ }
