@@ -1,0 +1,259 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(../assets/py.avif);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: flex;
+    
+}
+
+.logo {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    text-decoration: none;
+    color:blue;
+    text-decoration: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.logo img {
+    color: aquamarine;
+    background-color: rgb(12, 114, 117);
+}
+
+.search input {
+    width: 300px;
+    padding: 8px;
+    border-radius: 70px;
+    font-size: medium;
+    height: auto;
+    margin-top: 10px;
+    color:white;
+
+}
+.search input:hover{
+ transform: scale(1.04);
+}
+.home {
+    display: flex;
+    margin-top: 9px;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    
+    
+}
+
+.home a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.952);
+    margin-top: 10px;
+}
+.home a:hover{
+    transform: scale(1.04);
+}
+
+.sigin {
+    display: flex;
+    margin-top: 10px;
+    flex-direction: column;
+    color: black;
+
+}
+
+.sigin a {
+    text-decoration: none;
+    color: black;
+}
+.sigin a:hover{
+    color: aliceblue;
+    transform: scale(1.04);
+    background-repeat:no-repeat;
+}
+.store {
+    display: flex;
+    margin-top: 10px;
+    text-align: center;
+    flex-direction: column;
+        color: black;
+}
+
+.store a {
+    text-decoration: none;
+    color: black;
+    
+}
+.store a:hover{
+    transform: scale(1.04);
+    color: antiquewhite;
+}
+
+.wishlist {
+    display: flex;
+    margin-top: 10px;
+    flex-direction: column;
+    color: black;
+}
+
+.wishlist a {
+    text-decoration: none;
+    color: black;
+}
+.wishlist a:hover{
+    transform: scale(1.04);
+    color: aliceblue;
+}
+.support {
+    display: flex;
+    margin-top: 10px;
+    flex-direction: column;
+    color: black;
+}
+
+.support a {
+    text-decoration: none;
+    color: black;
+}
+.support a:hover{
+    transform: scale(1.04);
+    color: white;
+}
+
+.cart {
+    display: flex;
+    margin-top: 10px;
+    flex-direction: column;
+    margin-right: 6px;
+    color: black;
+}
+
+.cart a {
+    text-decoration: none;
+    color: black;
+}
+.cart a:hover{
+    transform: scale(1.04);
+    color: wheat;
+}
+.py a {
+    color: black;
+    justify-content: space-between;
+}
+
+.py {
+    justify-content: space-between;
+}
+.py a:hover{
+    transform: scale(1.04);
+    color: white;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    text-decoration: none;
+}
+
+.a a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.a a:hover{
+    transform: scale(1.04);
+    color: white;
+}
+
+.b a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.c a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.d a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.e a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.f a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.g a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.h a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.i a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.j a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.py{
+    color: black;
+    font-weight: 20px;
+    margin-left: 10px;
+}
+.pondy{
+    margin-top: 40px;
+    font-size: 35px;
+    margin-left: 100px;
+    color:black;
+    font-weight: 100;
+    
+}
+.plan{
+    margin-top: 20px;
+    font-size: 35px;
+    margin-left: 500px;
+}
+.z{
+    margin-top: 20px;
+    font-size: 35px;
+    margin-left: 900px;
+}
+.food{
+    display: flex;
+    margin-top: 30px;
+    text-align: center;
+    color: antiquewhite;
+}
+@media screen and (min-width:992px) {
+    
+}

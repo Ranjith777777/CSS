@@ -1,0 +1,17 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.future{
+    text-align: center;
+}
+.img img{
+ margin-left: 550px;
+ margin-top: 20px;
+}
+.p img{
+    margin-left: 550px;
+    margin-top: 20px;
+}

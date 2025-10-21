@@ -1,0 +1,24 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bike img{
+    margin-top: 20px;
+    margin-left: 550px;
+    margin-bottom: 20px;
+}
+.bike h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.cars img{
+ margin-top: 20px;
+ margin-bottom: 20px;
+ margin-left: 550px;
+}
+.cars h1{
+ text-align: center;
+ margin-bottom: 20px;
+}
