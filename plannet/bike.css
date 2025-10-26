@@ -2,23 +2,57 @@
 *{
     margin: 0;
     padding: 0;
+    background-image:  url(../assets/5.jpg);
     box-sizing: border-box;
+
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .bike img{
-    margin-top: 20px;
-    margin-left: 550px;
+    margin-top: 1px;
+    margin-left: 1px;
     margin-bottom: 20px;
+    border-radius: 13px;
+}
+.bike{
+    border: 3px solid;
+    width: 280px;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 40px;
 }
 .bike h1{
     text-align: center;
     margin-bottom: 20px;
+    border: 5px solid;
+    border-radius: 70px;
+    background-image:url(../assets/b2\ \(1\).jpg) ;
+    color: white;
 }
 .cars img{
  margin-top: 20px;
  margin-bottom: 20px;
- margin-left: 550px;
+ margin-left: 270px;
+ border-radius: 60px;
 }
 .cars h1{
  text-align: center;
  margin-bottom: 20px;
+ border:5px solid;
+ border-radius: 100px;
+ background-image: url(../assets/b4.jpg);
+ color: white;
+ background-position: center;
+ color: rgb(220, 233, 233);
+}
+.cars{
+    border: 5px solid rgb(1, 8, 20);
+    border-radius: 10px;
+    width: 800px;
+    margin-left: 400px;
+    margin-top: -380px;
+
+}
+.cars p{
+    text-align: center;
 }

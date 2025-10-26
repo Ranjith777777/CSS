@@ -1,24 +1,85 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-image: url(../assets/f3\ \(1\).jpg);
+    background-size: 200%;
+    background-repeat: no-repeat;
 }
 
-.town img{
+.town img {
     margin-left: 10px;
     margin-top: 20px;
     margin-bottom: 20px;
-    
+    display: flex;
+
 }
-.town{
-    margin-top: 20px;
+
+.town {
+    margin-top: 10px;
     text-align: center;
     margin-bottom: 20px;
-    
+    border: 5px solid;
+    width: 265px;
+    margin-left:200px ;
+    border-radius: 20px;
+    border: color(srgb rgb(0, 217, 255) green blue);
+    justify-content: space-around;
+    height: 390px;
 }
-.h1{
+.town .food{
+    margin-bottom: 200px;
+}
+
+.town img{
+ width: 230px;
+ image-rendering: crisp-edges;
+ margin-right: 2px;
+
+}
+.town h1 {
     text-align: center;
+    border: 5px solid;
+    background-image: url(../assets/photo-1699891730676-037bed3c1bed.avif);
+    border-radius: 70px;
+    color: rgb(17, 137, 145);
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex-wrap: wrap;
+}
+
+
+.food {
+  
+    border-radius: 15px;
+    box-shadow: 0 0px rgbx(0,0,0,0,.1);
+    width: 280px;
+    text-align: center;
+    overflow: hidden;
+    transition: 0.4s;
+    margin-left: 700px;
+    border: 5px solid;
+    flex-direction: row;
+    margin-top: -230px;
+}
+.food img h1 p{
+    transition: ease-in 0.0ms;
+    transform: scale(1.04);
 }
 .food img{
-    margin-left: 550px;
+    width: 255px;
+    object-fit: cover;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.food p{
+    padding: 0 15px 20px;
+    font-size:16;
+    margin-top: 20px;
+}
+.food h1{
+    background-image:url(../assets/f2.jpg);
+    border-radius: 70px;
+    color: aqua;
+    
 }
